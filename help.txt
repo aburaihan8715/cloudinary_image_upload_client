@@ -1,0 +1,15 @@
+## crud_with_upload_image_client
+
+### =========references===========
+-tutorials
+
+### features/actions
+
+
+### technologies used
+
+
+### completed tasks
+
+
+### pending tasks
